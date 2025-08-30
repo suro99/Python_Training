@@ -1,3 +1,28 @@
+## Questions ##
+# Write a Python program that manages a list of student scores. Perform the following operations step-by-step:
+# Create an empty list to store scores.
+# Append the scores: 85, 90, 78, 92, 88
+# Insert the score 80 at index 
+# Remove the score 92 from the list
+# Sort the scores in ascending order
+# Reverse the list
+# Find and print the maximum and minimum score
+# Check if 90 is in the list
+# Print the total number of scores
+# Slice and print the first three scores
+# find the last element from the list
+# replace the score with new score on the index 2
+# create a new copied list also
+# Write a program to assign a grade based on the score:
+# If score > 90: Grade A
+# If score > 80: Grade B
+# If score > 70: Grade C
+# If score > 60: Grade D
+# Else: Grade F
+# Use nested if-else.
+
+
+## Answers ##
 student_score = [85, 90, 78, 92, 88]
 print("Student Score: ", student_score)
 student_score.insert(1, 80) # inserting 80 at the first
