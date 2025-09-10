@@ -1,24 +1,20 @@
 # Scenario:
- 
-# You are building the backend logic of a product and order management system for an e-commerce platform like Amazon or Flipkart. The system needs to handle products, users, payments, discounts, and different order behaviors dynamically.
+# You are building the backend logic of a product and order management system for an e-commerce 
+# platform like Amazon or Flipkart. The system needs to handle products, users, payments, discounts, 
+# and different order behaviors dynamically.
  
 # Q1. Product Search System (Static Polymorphism)
- 
+
 # Problem Statement:
-# Implement a class ProductSearch that allows searching products with different combinations of criteria (name, category, price range).
+# Implement a class ProductSearch that allows searching products with different combinations of 
+# criteria (name, category, price range).
  
 # Requirements:
- 
 # Use default arguments and/or *args, **kwargs to simulate method overloading.
- 
 # Allow the following types of searches:
- 
 # Only by name
- 
 # Name and category
- 
 # Name, category, and price range
- 
  
 # Q2. Cart System with Quantity Variations (Static Polymorphism)
  
@@ -26,33 +22,25 @@
 # Design a class Cart that can add multiple products with variable quantities using *args or **kwargs.
  
 # Requirements:
- 
 # Add multiple products at once with name and quantity
- 
 # Simulate static polymorphism using variable arguments
- 
- 
+
 # Q3. Discount Application (Static Polymorphism)
  
 # Problem Statement:
-# Create a class Discount that allows applying different types of discounts:
- 
+# Create a class Discount that allows applying different types of discounts: 
 # Flat discount
- 
 # Percentage discount
- 
 # Buy One Get One
- 
 # Use static polymorphism to overload the method using default parameters or *args
  
- 
 # Q4. Payment System (Dynamic Polymorphism)
- 
+
 # Problem Statement:
-# Implement a base class Payment and subclasses CreditCardPayment, UPIPayment, and CODPayment. Each should override a method pay().
+# Implement a base class Payment and subclasses CreditCardPayment, UPIPayment, and CODPayment. 
+# Each should override a method pay().
  
 # Requirements:
- 
 # Override pay() method in each class to simulate different payment methods
 
 
