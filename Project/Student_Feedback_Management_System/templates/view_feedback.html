@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head><title>View Feedback</title></head>
+<body>
+  <h1>All Feedback</h1>
+  {% if error %}<p style="color:red">{{ error }}</p>{% endif %}
+  <table border="1">
+    <tr>
+      <th>Feedback ID</th><th>Student</th><th>Course</th><th>Faculty</th><th>Rating</th><th>Comments</th>
+    </tr>
+    {% for fb in feedbacks %}
+      <tr>
+        <td>{{ fb.feedback_id }}</td>
+        <td>{{ fb.student_name }}</td>
+        <td>{{ fb.course_name }}</td>
+        <td>{{ fb.faculty_name }}</td>
+        <td>{{ fb.rating }}</td>
+        <td>{{ fb.comments }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+  <p><a href="{{ url_for('download_logs') }}">Download Logs</a></p>
+</body>
+</html>

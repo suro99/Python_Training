@@ -1,0 +1,116 @@
+[2025-09-19 23:46:31] Database connected successfully.
+[2025-09-19 23:46:31] Student login failed: cdwdd@cfc.com
+[2025-09-19 23:46:31] Database connection closed.
+[2025-09-19 23:47:07] Database connected successfully.
+[2025-09-19 23:47:07] Student login failed: tanu@gmail.com
+[2025-09-19 23:47:07] Database connection closed.
+[2025-09-19 23:50:17] Database connected successfully.
+[2025-09-19 23:50:17] Student login success: tanmay@example.com
+[2025-09-19 23:50:17] Database connection closed.
+[2025-09-19 23:50:17] Database connected successfully.
+[2025-09-19 23:50:17] Database connection closed.
+[2025-09-19 23:50:45] Database connected successfully.
+[2025-09-19 23:50:45] Database connection closed.
+[2025-09-19 23:50:45] Database connected successfully.
+[2025-09-19 23:50:45] Feedback submitted by student 1 for course 1
+[2025-09-19 23:50:45] Database connection closed.
+[2025-09-19 23:56:09] Database connected successfully.
+[2025-09-19 23:56:09] Student login success: tanmay@example.com
+[2025-09-19 23:56:09] Database connection closed.
+[2025-09-19 23:56:09] Database connected successfully.
+[2025-09-19 23:56:09] Database connection closed.
+[2025-09-19 23:56:20] Database connected successfully.
+[2025-09-19 23:56:20] Database connection closed.
+[2025-09-19 23:56:20] Database connected successfully.
+[2025-09-19 23:56:20] Duplicate feedback attempt: student 1, course 1
+[2025-09-19 23:56:20] Database connection closed.
+[2025-09-19 23:56:41] Database connected successfully.
+[2025-09-19 23:56:41] Database connection closed.
+[2025-09-19 23:56:41] Database connected successfully.
+[2025-09-19 23:56:41] Feedback submitted by student 1 for course 2
+[2025-09-19 23:56:41] Database connection closed.
+[2025-09-20 00:09:35] Database connected successfully.
+[2025-09-20 00:09:35] Student login success: suman@example.com
+[2025-09-20 00:09:35] Database connection closed.
+[2025-09-20 00:09:36] Database connected successfully.
+[2025-09-20 00:09:36] Database connection closed.
+[2025-09-20 00:19:06] Database connected successfully.
+[2025-09-20 00:19:06] Admin login success: admin
+[2025-09-20 00:19:06] Database connection closed.
+[2025-09-20 00:19:06] Database connected successfully.
+[2025-09-20 00:19:06] Admin viewed all feedback. Total records: 2
+[2025-09-20 00:19:06] Database connection closed.
+[2025-09-20 00:19:27] Database connected successfully.
+[2025-09-20 00:19:27] Admin viewed all feedback. Total records: 2
+[2025-09-20 00:19:27] Database connection closed.
+[2025-09-20 00:20:03] Database connected successfully.
+[2025-09-20 00:20:04] Student login success: abhra@example.com
+[2025-09-20 00:20:04] Database connection closed.
+[2025-09-20 00:20:04] Database connected successfully.
+[2025-09-20 00:20:04] Database connection closed.
+[2025-09-20 00:20:29] Database connected successfully.
+[2025-09-20 00:20:29] Database connection closed.
+[2025-09-20 00:20:29] Database connected successfully.
+[2025-09-20 00:20:29] Feedback submitted by student 3 for course 1
+[2025-09-20 00:20:29] Database connection closed.
+[2025-09-20 00:20:35] Database connected successfully.
+[2025-09-20 00:20:35] Admin viewed all feedback. Total records: 3
+[2025-09-20 00:20:35] Database connection closed.
+[2025-09-20 00:21:31] Database connected successfully.
+[2025-09-20 00:21:31] Student login success: suman@example.com
+[2025-09-20 00:21:31] Database connection closed.
+[2025-09-20 00:21:31] Database connected successfully.
+[2025-09-20 00:21:31] Database connection closed.
+[2025-09-20 00:21:44] Database connected successfully.
+[2025-09-20 00:21:44] Database connection closed.
+[2025-09-20 00:21:44] Database connected successfully.
+[2025-09-20 00:21:44] Feedback submitted by student 2 for course 1
+[2025-09-20 00:21:44] Database connection closed.
+[2025-09-20 00:21:48] Database connected successfully.
+[2025-09-20 00:21:48] Admin viewed all feedback. Total records: 4
+[2025-09-20 00:21:48] Database connection closed.
+[2025-09-21 09:13:10] Database connected successfully.
+[2025-09-21 09:13:10] Student login success: tanmay@example.com
+[2025-09-21 09:13:10] Database connection closed.
+[2025-09-21 09:13:10] Database connected successfully.
+[2025-09-21 09:13:10] Database connection closed.
+[2025-09-21 09:13:41] Database connected successfully.
+[2025-09-21 09:13:41] Database connection closed.
+[2025-09-21 09:13:41] Database connected successfully.
+[2025-09-21 09:13:41] Duplicate feedback attempt: student 1, course 2
+[2025-09-21 09:13:41] Database connection closed.
+[2025-09-21 09:14:42] Database connected successfully.
+[2025-09-21 09:14:42] Admin login success: admin
+[2025-09-21 09:14:42] Database connection closed.
+[2025-09-21 09:14:42] Database connected successfully.
+[2025-09-21 09:14:42] Admin viewed all feedback. Total records: 4
+[2025-09-21 09:14:42] Database connection closed.
+[2025-09-21 09:15:33] Database connected successfully.
+[2025-09-21 09:15:33] Student login success: akash@example.com
+[2025-09-21 09:15:33] Database connection closed.
+[2025-09-21 09:15:33] Database connected successfully.
+[2025-09-21 09:15:33] Database connection closed.
+[2025-09-21 09:15:51] Database connected successfully.
+[2025-09-21 09:15:51] Database connection closed.
+[2025-09-21 09:15:51] Database connected successfully.
+[2025-09-21 09:15:51] Feedback submitted by student 4 for course 1
+[2025-09-21 09:15:51] Database connection closed.
+[2025-09-21 09:16:00] Database connected successfully.
+[2025-09-21 09:16:00] Admin viewed all feedback. Total records: 5
+[2025-09-21 09:16:00] Database connection closed.
+[2025-09-22 17:48:58] Database connected successfully.
+[2025-09-22 17:48:58] Student login success: tanmay@example.com
+[2025-09-22 17:48:58] Database connection closed.
+[2025-09-22 17:48:58] Database connected successfully.
+[2025-09-22 17:48:58] Database connection closed.
+[2025-09-22 17:49:06] Database connected successfully.
+[2025-09-22 17:49:06] Database connection closed.
+[2025-09-22 17:49:07] Database connected successfully.
+[2025-09-22 17:49:07] Duplicate feedback attempt: student 1, course 1
+[2025-09-22 17:49:07] Database connection closed.
+[2025-09-22 17:49:34] Database connected successfully.
+[2025-09-22 17:49:34] Admin login success: admin
+[2025-09-22 17:49:34] Database connection closed.
+[2025-09-22 17:49:34] Database connected successfully.
+[2025-09-22 17:49:34] Admin viewed all feedback. Total records: 5
+[2025-09-22 17:49:34] Database connection closed.

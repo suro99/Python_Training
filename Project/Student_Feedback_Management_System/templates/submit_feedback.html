@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head><title>Submit Feedback</title></head>
+<body>
+  <h1>Submit Feedback</h1>
+  <p>Welcome, {{ session.student_name }}</p>
+  {% if message %}<p style="color:green">{{ message }}</p>{% endif %}
+  {% if error %}<p style="color:red">{{ error }}</p>{% endif %}
+  <form method="post">
+    <label>Course:</label>
+    <select name="course_id" required>
+      {% for course in courses %}
+        <option value="{{ course.course_id }}">{{ course.course_name }} ({{ course.faculty_name }})</option>
+      {% endfor %}
+    </select><br>
+    Rating (1-5): <input type="number" name="rating" min="1" max="5" required><br>
+    Comments: <textarea name="comments"></textarea><br>
+    <input type="submit" value="Submit">
+  </form>
+  <p><a href="{{ url_for('student_logout') }}">Logout</a></p>
+</body>
+</html>
